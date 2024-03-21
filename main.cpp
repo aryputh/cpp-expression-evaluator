@@ -20,7 +20,9 @@ int main()
 	return 0;
 }
 
-/* TO-DO
+/*
+* TO-DO
 * - Add support for multiple sets of parenthesis.
 * - Handle float inputs.
+* - Check for division by 0.
 */
