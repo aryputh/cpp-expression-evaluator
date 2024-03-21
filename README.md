@@ -16,3 +16,6 @@ Output: `100`
 
 Input: `l0 + 2 * 6 OR 100 * ((2 + 12)`<br>
 Output: `-1`
+
+## Academic Integrity
+This project cannot be used to commit acts of academic dishonesty, and was created with the intent of displaying on my portfolio.
