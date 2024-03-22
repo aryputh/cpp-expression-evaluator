@@ -20,9 +20,11 @@ int main()
 	return 0;
 }
 
-/*
-* TO-DO
+/* TO-DO
 * - Add support for multiple sets of parenthesis.
 * - Handle float inputs.
-* - Check for division by 0.
+* - Warn about division by 0.
+* - Warn about consecutive operators.
+* - Warn for given expression being under max size.
+* - Convert stack to use a linked list implementation.
 */
